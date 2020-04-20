@@ -1,0 +1,10 @@
+node_modules
+npm-debug*
+/dist
+/.cache-loader
+/.swp
+/.DS_Store
+**/.DS_Store
+/package
+/package-lock.json
+/yarn-error.log
